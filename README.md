@@ -1,6 +1,6 @@
 ### Olá, me chamo Victor Garcia
 
-- 🌱 Sou Desenvolvedor Web e venho desenvolvendo projetos relacionados a essa área, além de alguns em C e Java para a faculdade
+- 🌱 Sou Desenvolvedor Web e venho desenvolvendo projetos relacionados a essa área, no momento estou me especializando na linguagem Java, e desenvolvendo projetos em C para a faculdade. 
 
 <div align="center">
   <a href="https://github.com/victorgarciadss">
