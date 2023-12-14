@@ -1,6 +1,6 @@
 ### Olá, me chamo Victor Garcia
 
-- 🌱 Sou Desenvolvedor de software e venho desenvolvendo projetos relacionados a essa área, no momento estou me especializando na linguagem Java e Spring Framework, além de desenvolver projetos em C para a faculdade. 
+- 🌱 Sou Desenvolvedor de software e venho desenvolvendo projetos relacionados a área, sou full-stack, mas no momento estou mais voltado para o Front-End. Tenho experiências com as linguagens JavaScript, Java e também com a biblioteca ReactJS e Spring Framework, estou cursando Análise e Desenvolvimento de Sistemas e sou estagiário em Desenvolvimento. 
 
 <div align="center">
   <a href="https://github.com/victorgarciadss">
