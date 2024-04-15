@@ -1,6 +1,8 @@
 ### Olá, me chamo Victor Garcia
 
-- 🌱 Sou Desenvolvedor de software e venho desenvolvendo projetos relacionados a área, sou full-stack, mas no momento estou mais voltado para o Front-End. Tenho experiências com as linguagens JavaScript, Java e também com a biblioteca ReactJS e Spring Framework, estou cursando Análise e Desenvolvimento de Sistemas e sou estagiário em Desenvolvimento. 
+- 🌱 Sou Desenvolvedor de software e atuo profissionalmente na área de qualidade de software, já desenvolvi e ainda crio diversos projetos novos para melhorar minhas habilidades cada vez mais
+- Sei atuar eu diversas áreas do desenvolvimento de software mas Back-End é a minha favorita e gosto muito de Testes também. Tenho experiência profissional com linguagens como JavaScript, Java e também com a biblioteca ReactJS e Spring Framework, além de bancos de dados relacionais.
+- Cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/victorgarciadss">
@@ -11,14 +13,14 @@
 ### Tecnologias e linguagens que tenho conhecimento
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Victor-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Victor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Victor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
